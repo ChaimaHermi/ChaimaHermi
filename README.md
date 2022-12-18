@@ -1,6 +1,6 @@
 ### Hi, I'm Chaima Hermi 👋
 
-I'm Chaima Hermi from tunisia , currently living in Fernena .I'm a second year Student :student: studying Buisness Intelligence at higher institute of management of Bizerte .
+I'm Chaima Hermi from tunisia , currently living in Bizerte .I'm a third year Student :student: studying Buisness Intelligence at higher institute of management of Bizerte .
 
 
 
