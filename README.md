@@ -17,8 +17,11 @@ Talk to me about :
 :black_medium_small_square:	Backend development using __C__ , __JAVA__ and  __VB.NET__.
 
 :black_medium_small_square:	Data science with __R__ and __PYTHON__ .
+
 :black_medium_small_square:	Big data with __Hadoop__  .
+
 :black_medium_small_square:	Business intelligence with __Talend__ and __Power BI__ .
+
 
 :black_medium_small_square:	Database using __ORACLE SQL DEVELOPER__ .
 
