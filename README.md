@@ -1,6 +1,6 @@
 ### Hi, I'm Chaima Hermi 👋
 
-I'm Chaima Hermi from tunisia , currently living in Bizerte .I'm a third year Student :student: studying Buisness Intelligence at higher institute of management of Bizerte .
+I'm Chaima Hermi from tunisia , currently living in Tunis .I'm a 1st year Student :student: studying Software engeeniring  at higher institute of art of multimedia manouba .
 
 
 
@@ -20,7 +20,7 @@ Talk to me about :
 
 :black_medium_small_square:	Big data with __Hadoop__  .
 
-:black_medium_small_square:	Business intelligence with __Talend__ and __Power BI__ .
+:black_medium_small_square:	Business intelligence with __ApacheAirlfow__ and __Power BI__ .
 
 
 :black_medium_small_square:	Database using __ORACLE SQL DEVELOPER__ .
