@@ -35,7 +35,7 @@ Talk to me about :
 
 :black_medium_small_square: I love :heart:	Programming
 
-:black_medium_small_square:🌱  i'm currently learning at ISGB 
+:black_medium_small_square:🌱  i'm currently learning at ISAMM
 
 :black_medium_small_square: 💬 Ask me about anything and everything I try always to help you :wink:
 
