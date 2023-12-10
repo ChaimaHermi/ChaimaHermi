@@ -20,10 +20,10 @@ Talk to me about :
 
 :black_medium_small_square:	Big data with __Hadoop__  .
 
-:black_medium_small_square:	Business intelligence with __ApacheAirlfow__ and __Power BI__ .
+:black_medium_small_square: 	Business intelligence with __ApacheAirlfow__ and __Power BI__ .
 
 
-:black_medium_small_square:	Database using __ORACLE SQL DEVELOPER__ .
+:black_medium_small_square: 	Database using __ORACLE SQL DEVELOPER__ .
 
 
 
