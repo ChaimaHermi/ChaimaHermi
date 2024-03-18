@@ -14,11 +14,9 @@ Talk to me about :
 
 :black_medium_small_square:	Front-end development using __HTML__ ,__CSS__ and __JAVASCRIPT__ . 
 
-:black_medium_small_square:	Backend development using __C__ , __JAVA__ and  __VB.NET__.
+:black_medium_small_square:	Backend development using __C__ , __JAVA__ , __PYTHON__.
 
 :black_medium_small_square:	Data science with __R__ and __PYTHON__ .
-
-:black_medium_small_square:	Big data with __Hadoop__  .
 
 :black_medium_small_square: 	Business intelligence with __ApacheAirlfow__ and __Power BI__ .
 
@@ -39,7 +37,7 @@ Talk to me about :
 
 :black_medium_small_square: 💬 Ask me about anything and everything I try always to help you :wink:
 
-:black_medium_small_square: 📫 How to reach me: chaima.hermi@isgb.ucar.tn .
+:black_medium_small_square: 📫 How to reach me: chaima.hermi5gmail.com .
 
 
 
