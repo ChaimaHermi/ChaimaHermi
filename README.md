@@ -14,7 +14,7 @@ Talk to me about :
 
 :black_medium_small_square:	Front-end development using __HTML__ ,__CSS__ and __JAVASCRIPT__ . 
 
-:black_medium_small_square:	Backend development using __C__ , __JAVA__ , __PYTHON__.
+:black_medium_small_square:	Backend development using __C__ , __JAVA__ , __PYTHON__ , __Flask__,__php__,__Laravel__.
 
 :black_medium_small_square:	Data science with __R__ and __PYTHON__ .
 
