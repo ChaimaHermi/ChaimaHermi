@@ -1,6 +1,6 @@
 ### Hi, I'm Chaima Hermi 👋
 
-I'm Chaima Hermi from tunisia , currently living in Tunis .I'm a 1st year Student :student: studying Software engeeniring  at higher institute of art of multimedia manouba .
+I'm Chaima Hermi from tunisia , currently living in Tunis .I'm a 2nd year Student :student: studying Software engeeniring  at higher institute of art of multimedia manouba .
 
 
 
